@@ -234,3 +234,7 @@ favourite = {
 }
 }
 print (favourite)
+
+harf = ['a', 'b', 'c']
+sayi = [1,2,3]
+list(zip(harf,sayi))
